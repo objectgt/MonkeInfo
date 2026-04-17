@@ -3,10 +3,10 @@
   "min-version": "4.0.0",
   "min-console-version": "2.8.0",
   "discord-invite": "https://discord.gg/seralyth",
-  "motd": "Welcome to ObjectGTS version of seralyth (obviously so skibidi signal, and yes lexi typed sigma but object thought it was signal and then tried to defend themselves by saying the screenshare quality was bad)",
+  "motd": "Welcome to ObjectGT's version of seralyth!",
   "admins": [
     {
-      "name": "Lexi is sexy",
+      "name": "Lexi",
       "user-id": "467114172575CC01"
     },
     {
@@ -47,7 +47,7 @@
     }
   ],
   "super-admins": [
-    "Lexi is sexy",
+    "Lexi",
     "Object GT",
     "Twig",
     "industry",
