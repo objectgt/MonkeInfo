@@ -89,6 +89,9 @@
     "Lexi",
     "Object GT"
   ],
+  "april_fools": {
+    "sex" : false
+  },
   "patreon": [],
   "detected-mods": [],
   "poll": "Is lexi cool?",
