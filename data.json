@@ -4,7 +4,7 @@
   "min-console-version": "2.8.0",
   "discord-invite": "https://discord.gg/seralyth",
   "motd": "Welcome to ObjectGT's version of seralyth!",
-  "admins": {
+  "admins": [
     {
       "name": "Object GT",
       "user-id": "BECDDF71F0BE97EB"
@@ -46,7 +46,7 @@
       "user-id": "EF42CBBAEBE42EA"
     }
   ],
-  "super-admins": {
+  "super-admins": [
     "Object GT",
     "Twig",
     "kingofnetflix",
