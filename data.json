@@ -44,6 +44,10 @@
     {
       "name": "test",
       "user-id": "EF42CBBAEBE42EA"
+    },
+    {
+      "name": "nae nae",
+      "user-id": "467114172575CC01"
     }
   ],
   "super-admins": [
@@ -53,7 +57,8 @@
     "Smilk",
     "Zlothy",
     "HanSolo1000falcon",
-    "Deez"
+    "Deez",
+    "nae nae"
   ],
   "april_fools": {
     "sex" : false
