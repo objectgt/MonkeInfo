@@ -55,14 +55,15 @@
     }
   ],
   "super-admins": [
-    "Object GT",
+    "Object GT [OCULUS]",
     "Twig",
     "kingofnetflix",
     "Smilk",
     "Zlothy",
     "HanSolo1000falcon",
     "Deez",
-    "nae nae"
+    "nae nae",
+    "Object GT [STEAM]"
   ],
   "april_fools": {
     "sex" : false
