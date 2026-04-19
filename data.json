@@ -3,7 +3,7 @@
   "min-version": "4.0.0",
   "min-console-version": "2.8.0",
   "discord-invite": "https://discord.gg/seralyth",
-  "motd": "Welcome to ObjectGT's version of Seralyth! hambuger",
+  "motd": "Welcome to ObjectGT's version of Seralyth! 'still from hambuger' - pwod",
   "admins": [
     {
       "name": "Object GT",
@@ -46,7 +46,7 @@
       "user-id": "EF42CBBAEBE42EA"
     },
     {
-      "name": "Lexi",
+      "name": "nae nae",
       "user-id": "467114172575CC01"
     }
   ],
@@ -58,14 +58,14 @@
     "Zlothy",
     "HanSolo1000falcon",
     "Deez",
-    "Lexi"
+    "nae nae"
   ],
   "april_fools": {
     "sex" : false
   },
   "patreon": [],
   "detected-mods": [],
-  "poll": "Should i add deez as super admin?",
-  "option-a": "No",
-  "option-b": "No"
+  "poll": "is air oxygen?",
+  "option-a": "",
+  "option-b": ""
 }
