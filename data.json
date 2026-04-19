@@ -6,7 +6,7 @@
   "motd": "Welcome to ObjectGT's version of Seralyth! 'still from hambuger' - pwod",
   "admins": [
     {
-      "name": "Object GT",
+      "name": "Object GT [OCULUS]",
       "user-id": "BECDDF71F0BE97EB"
     },
     {
@@ -48,6 +48,10 @@
     {
       "name": "nae nae",
       "user-id": "467114172575CC01"
+    },
+    {
+      "name": "Object GT [STEAM]",
+      "user-id": "69B87228EC7FF7F2"
     }
   ],
   "super-admins": [
